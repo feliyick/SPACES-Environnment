@@ -3,7 +3,7 @@ import sys, math
 
 if __name__ == '__main__':    
 
-    filename = "testMap.svg"
+    filename = "pachacamacSiteMap.svg"
     try:
         if len(sys.argv) > 1:
             for i in range(1, len(sys.argv)):
